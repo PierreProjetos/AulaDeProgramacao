@@ -2,5 +2,6 @@
  Aula de variáveis
 # https://scratch.mit.edu/projects/501163852
 # https://scratch.mit.edu/projects/505021720
-
+# https://scratch.mit.edu/projects/505012266
+# https://scratch.mit.edu/projects/504998939
 Aulas de programação e algoritimos - VisualG e Scartch
